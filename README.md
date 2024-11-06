@@ -9,6 +9,7 @@ East-West and West-East directions.
 The system includes vehicle traffic lights and pedestrian signals to regulate safe movement across the intersection.
 
 Operational Phases
+
 The traffic light system operates in cycles, with each cycle consisting of several phases:
 
 Phase 1 (North-South Green):
@@ -19,6 +20,7 @@ North-South: Green
 East-West: Red
 Pedestrian: Red (Do Not Cross)
 Transition: After a specified time, the system transitions to Phase 2.
+
 Phase 2 (North-South Yellow):
 
 Objective: Allow North-South vehicles to prepare to stop.
@@ -27,6 +29,7 @@ North-South: Yellow
 East-West: Red
 Pedestrian: Red (Do Not Cross)
 Transition: After a short delay, the system transitions to Phase 3.
+
 Phase 3 (East-West Green):
 
 Objective: Allow vehicles to travel from East to West and vice versa.
@@ -35,6 +38,7 @@ East-West: Green
 North-South: Red
 Pedestrian: Red (Do Not Cross)
 Transition: After a specified time, the system transitions to Phase 4.
+
 Phase 4 (East-West Yellow):
 
 Objective: Allow East-West vehicles to prepare to stop.
@@ -43,6 +47,7 @@ East-West: Yellow
 North-South: Red
 Pedestrian: Red (Do Not Cross)
 Transition: After a short delay, the system transitions back to Phase 1 or the Pedestrian Phase if triggered.
+
 Pedestrian Phase:
 
 Objective: Allow pedestrians to cross safely across all directions.
