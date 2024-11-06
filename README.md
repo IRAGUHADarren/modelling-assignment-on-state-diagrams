@@ -16,6 +16,7 @@ Phase 1 (North-South Green):
 
 Objective: Allow vehicles to travel freely from North to South and vice versa.
 Signal States:
+
 North-South: Green
 East-West: Red
 Pedestrian: Red (Do Not Cross)
