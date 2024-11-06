@@ -1,6 +1,7 @@
 # modelling-assignment-on-state-diagrams
 
-Gishushu Traffic Lights Functional Specification
+Gishushu Traffic Lights Functional Specification.
+
 The Gishushu Traffic Lights system is designed to manage traffic at a busy intersection. The system has four main directions:
 
 North-South and South-North directions.
