@@ -17,6 +17,7 @@ The traffic light system operates in cycles, with each cycle consisting of sever
 Phase 1 (North-South Green):
 
 Objective: Allow vehicles to travel freely from North to South and vice versa.
+
 Signal States:
 
 North-South: Green
